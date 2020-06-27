@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.18" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-8.2.2.jre11" level="project" />
+    <orderEntry type="library" name="aspose.words.jdk16-7.0.0" level="project" />
+    <orderEntry type="library" name="OpenViewerFX-20151002" level="project" />
+    <orderEntry type="library" name="pdf-renderer-140" level="project" />
+    <orderEntry type="library" name="com.itextpdf.maven:itextdoc:2.0.0" level="project" />
+    <orderEntry type="library" name="org.apache.pdfbox:pdfbox:2.0.5" level="project" />
+  </component>
+</module>
